@@ -4,4 +4,4 @@ def say_hello(name = "Ruby Programmer")
 end
 
 say_hello
-say_hello{Sue")
+say_hello{"Sue")
